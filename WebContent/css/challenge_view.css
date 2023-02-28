@@ -1,0 +1,49 @@
+main{
+	margin: 0 auto;
+	margin-top: 2rem;
+}
+.main{
+/* 	border: 1px solid black; */
+	margin: 0 auto;
+	width: 100rem;
+	height: 50rem;
+}
+.challenge_title{
+	margin: 0 auto;
+	width: 72.5rem;
+	padding: 1rem;
+}
+.create_box button{
+	margin-top: 2rem;
+	float: right;
+}
+input{
+	hegiht: 5rem;
+}
+.challenge_title h3{
+	text-align: center;
+}
+.board_detail{
+	text-align: right;
+}
+.container{
+	margin: 0 auto;
+	width: 72.5rem;
+/* 	padding: 0.2rem; */
+}
+.container input{
+	height: 20rem;
+}
+.flag{
+	margin: 0 auto;
+	width: 69.4rem;
+/* 	padding: 1rem; */
+}
+.btn_area{
+	width: 70.2rem;
+	margin: 0 auto;
+}
+.btn{
+	padding: 1rem;
+	float: right;
+}

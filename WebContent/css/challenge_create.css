@@ -1,0 +1,24 @@
+main{
+	margin: 0 auto;
+	margin-top: 2rem;
+}
+.create_box{
+/* 	border: 1px solid black; */
+	margin: 0 auto;
+	width: 90rem;
+	height: 120rem;
+}
+.challenge_title{
+	margin: 0 auto;
+	width: 69.4rem;
+	height: 12rem;
+	padding-top: 0.2rem;
+}
+.create_box button{
+	margin-top: 2rem;
+	float: right;
+}
+.test_case{
+	margin: 0 auto;
+	width: 69.4rem;
+}
